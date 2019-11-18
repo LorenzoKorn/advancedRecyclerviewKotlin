@@ -9,6 +9,6 @@
         android:id="@+id/color_image"
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        app:srcCompat="@android:drawable/alert_dark_frame"
-        android:contentDescription="@string/color" />
+        android:contentDescription="@string/color"
+        app:srcCompat="@android:drawable/alert_dark_frame" />
 </LinearLayout>
