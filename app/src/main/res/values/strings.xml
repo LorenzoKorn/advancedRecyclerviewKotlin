@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Advanced-recyclerview-kotlin</string>
+    <string name="color">color</string>
 </resources>
